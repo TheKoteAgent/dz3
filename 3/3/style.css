@@ -1,0 +1,7 @@
+:root {
+  --color-gray: gray;
+  --color-purple: rgb(206, 87, 206);
+}
+.exemple {
+  color: var(--color-gray);
+}
